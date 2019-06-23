@@ -24,8 +24,8 @@ VALUES
 -----------------------------------------------
 
 	("en_US", "LOC_IMPROVEMENT_CVS_KALANGITAN_UI_NAME",				"Nipa Hut"	),
-	("en_US", "LOC_IMPROVEMENT_CVS_KALANGITAN_UI_DESCRIPTION",		"Unlocks the Builder ability to construct a Nipa Hut, unique to the Philippines.[NEWLINE][NEWLINE]Provides +2 [ICON_Culture] Culture, and +0.5 [ICON_Housing] Housing. Gains +1 [ICON_FOOD] Food for every two adjacent bonus resources, +1 [ICON_PRODUCTION] Production for every two adjacent strategic resources, and +1 [ICON_GOLD] Gold for every adjacent luxury resource. Must be built adjacent to a resource."	),
-	("en_US", "LOC_IMPROVEMENT_CVS_KALANGITAN_UI_XP1_DESCRIPTION",	"Unlocks the Builder ability to construct a Nipa Hut, unique to the Philippines.[NEWLINE][NEWLINE]Provides +2 [ICON_Culture] Culture, and +0.5 [ICON_Housing] Housing. Gains +1 [ICON_FOOD] Food for every two adjacent bonus resources, +1 [ICON_PRODUCTION] Production for every two adjacent strategic resources, and +1 [ICON_GOLD] Gold for every adjacent luxury resource. Cannot be damaged by floods or storms, but must be built adjacent to a resource."	),
+	("en_US", "LOC_IMPROVEMENT_CVS_KALANGITAN_UI_DESCRIPTION",		"Unlocks the Builder ability to construct a Nipa Hut, unique to the Philippines.[NEWLINE][NEWLINE]Provides +2 [ICON_Culture] Culture, and +0.5 [ICON_Housing] Housing. Gains +1 [ICON_FOOD] Food for every two adjacent bonus resources, +1 [ICON_PRODUCTION] Production for every two adjacent strategic resources, and +1 [ICON_GOLD] Gold for every adjacent luxury resource."	),
+	("en_US", "LOC_IMPROVEMENT_CVS_KALANGITAN_UI_XP1_DESCRIPTION",	"Unlocks the Builder ability to construct a Nipa Hut, unique to the Philippines.[NEWLINE][NEWLINE]Provides +2 [ICON_Culture] Culture, and +0.5 [ICON_Housing] Housing. Gains +1 [ICON_FOOD] Food for every two adjacent bonus resources, +1 [ICON_PRODUCTION] Production for every two adjacent strategic resources, and +1 [ICON_GOLD] Gold for every adjacent luxury resource. Cannot be damaged by floods or storms."	),
 
 -----------------------------------------------
 -- Agenda
