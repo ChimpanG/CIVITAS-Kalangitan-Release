@@ -84,6 +84,13 @@
       </Properties>
       <File>Core/Kalangitan_Colors.sql</File>
     </UpdateColors>
+    <UpdateDatabase id="NewAction">
+      <Properties>
+        <LoadOrder>116</LoadOrder>
+      </Properties>
+      <Criteria>XP2</Criteria>
+      <File>Core/Kalangitan_XP2.sql</File>
+    </UpdateDatabase>
   </InGameActions>
   <Files>
     <File>ArtDefs/Improvements.artdef</File>
@@ -103,6 +110,7 @@
     <File>Core/Kalangitan_UA.sql</File>
     <File>Core/Kalangitan_UI.sql</File>
     <File>Core/Kalangitan_XP1.sql</File>
+    <File>Core/Kalangitan_XP2.sql</File>
     <File>Platforms/MacOS/BLPs/landmarks/hero_buildings.blp</File>
     <File>Platforms/MacOS/BLPs/landmarks/tilebases.blp</File>
     <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>

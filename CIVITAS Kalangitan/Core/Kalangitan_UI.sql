@@ -113,10 +113,8 @@ VALUES	('IMPROVEMENT_CVS_KALANGITAN_UI',	'TERRAIN_GRASS'			),
 -----------------------------------------------
 
 INSERT INTO Improvement_ValidFeatures
-		(ImprovementType,					FeatureType,						PrereqCivic	)
-VALUES	('IMPROVEMENT_CVS_KALANGITAN_UI',	'FEATURE_FLOODPLAINS',				NULL		),
-		('IMPROVEMENT_CVS_KALANGITAN_UI',	'FEATURE_FLOODPLAINS_GRASSLAND',	NULL		),
-		('IMPROVEMENT_CVS_KALANGITAN_UI',	'FEATURE_FLOODPLAINS_PLAINS',		NULL		);
+		(ImprovementType,					FeatureType,			PrereqCivic	)
+VALUES	('IMPROVEMENT_CVS_KALANGITAN_UI',	'FEATURE_FLOODPLAINS',	NULL		);
 
 -----------------------------------------------
 -- Improvement_YieldChanges
