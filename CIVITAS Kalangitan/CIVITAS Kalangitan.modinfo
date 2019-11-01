@@ -4,6 +4,7 @@
     <Name>CIVITAS [ICON_GREATPERSON] Kalangitan</Name>
     <Description>Adds Kalangitan as a leader for CIVITAS [ICON_GOVERNMENT] Philippines</Description>
     <CompatibleVersions xmlns="http://schemas.microsoft.com/developer/msbuild/2003">1.2,2.0</CompatibleVersions>
+    <Created>1572610345</Created>
     <Teaser>Adds Kalangitan as a leader for CIVITAS Philippines</Teaser>
     <Authors>SeelingCat, ChimpanG</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
@@ -111,39 +112,6 @@
     <File>Core/Kalangitan_UI.sql</File>
     <File>Core/Kalangitan_XP1.sql</File>
     <File>Core/Kalangitan_XP2.sql</File>
-    <File>Platforms/MacOS/BLPs/landmarks/hero_buildings.blp</File>
-    <File>Platforms/MacOS/BLPs/landmarks/tilebases.blp</File>
-    <File>Platforms/MacOS/BLPs/LeaderFallbacks.blp</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_BaseColor</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_G</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_B</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_FOW</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_H</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_02_B</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_02_FOW</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_02_H</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_PIL_B</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_PIL_H</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_01_B_null</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_02_B_null</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_PIL_B_null</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_IMP_CPG_Kalangitan_UI_Bld_AB_Diffuse_C_null</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_IMP_CPG_Kalangitan_UI_Bld_C_Diffuse_B_null</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Ruin_Debris_Decal_null</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_Mbanza_Base_A</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_Mbanza_Base_E</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_Mbanza_Base_G</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_Mbanza_Base_N0</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_Mbanza_Base_N1</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_FOW_Ruin_Debris_Decal</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Ruin_Debris_Decal</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Ruin_Debris_Decal_H</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_WON_Great_Zimbabwe_A</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_WON_Great_Zimbabwe_G</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_WON_Great_Zimbabwe_N0</File>
-    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_WON_Great_Zimbabwe_N1</File>
-    <File>Platforms/MacOS/BLPs/strategicview/strategicview_improvements.blp</File>
-    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
     <File>Platforms/Windows/BLPs/landmarks/hero_buildings.blp</File>
     <File>Platforms/Windows/BLPs/landmarks/tilebases.blp</File>
     <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
